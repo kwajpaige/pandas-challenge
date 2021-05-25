@@ -3,7 +3,7 @@ Analyze the district-wide standardized test results.  Given every student's math
  
  Project includes:
 1) Use the pandas library and Jupyter Notebook.
-2) submit a link to your Github/Git Lab repo that contains your Jupyter Notebook.
+2) Submit a link to your Github/Git Lab repo that contains your Jupyter Notebook.
 3) Include a written description of at least two observable trends based on the data.
 
 Objective:
